@@ -564,7 +564,7 @@ export default {
   },
   created() {
     // document.title = "Subscription Converter";
-    document.title = "Tao的转换网";
+    document.title = "TaoYs订阅链接转换";
      this.isPC = this.$getOS().isPc;
 
     // 获取 url cache
